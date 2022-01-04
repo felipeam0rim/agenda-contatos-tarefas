@@ -1,0 +1,59 @@
+.contato_card {
+    padding: 1em;
+    border: 1px solid #7a7a7a;
+    border-radius: 5px;
+    width: 24%;
+    margin: 0.5%;
+  }
+  
+  .contato_card h4 {
+    background-color: #222;
+    color: #ffbb33;
+    padding: 0.4em;
+    margin-bottom: 1.3em;
+    font-size: 1.3em;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .contato_card p {
+    color: #3b3b3b;
+    margin-bottom: 1em;
+  }
+  
+  .contato_card p span {
+    font-weight: bold;
+  }
+  
+  .contato_card_actions {
+    margin-top: 1.2em;
+    display: flex;
+    align-items: center;
+  }
+  
+  .contato_card_actions a,
+  .contato_card_actions button {
+    text-decoration: none;
+    border: none;
+    background-color: #fff;
+    color: #222;
+    font-size: 0.9em;
+    padding: 0.6em 1em;
+    margin-right: 4.5em;
+    cursor: pointer;
+    border: 1px solid #222;
+    transition: 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .contato_card_actions svg {
+    margin-right: 0.5em;
+  }
+  
+  .contato_card_actions a:hover,
+  .contato_card_actions button:hover {
+    background-color: #222;
+    color: #ffbb33;
+  }

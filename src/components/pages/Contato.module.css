@@ -1,0 +1,111 @@
+/* .contato_details {
+    padding: 2em;
+}
+
+.contato_details h1,
+.contato_details h2,
+.contato_details p {
+    margin-bottom: 0.5em;
+}
+
+.contato_details h1 {
+    background-color: #222;
+    color: #ffbb33;
+    padding: 0.4em;
+    position: absolute;
+    top: 29%;
+    transform: translate(0,-50%)
+}
+.contato_details h2 {
+    background-color: #222;
+    color: #ffbb33;
+    padding: 0.4em;
+    position: absolute;
+    top: 45%;
+    transform: translate(0,-50%)
+    }
+
+.contato_details p {
+    background-color: #222;
+    color: #ffbb33;
+    padding: 0.4em;
+    position: absolute;
+    top: 60%;
+    transform: translate(0,-50%)
+    }
+
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border: none;
+    cursor: pointer;
+    max-height: 40px;
+    position: absolute;
+    bottom: 70%;
+    right: 22%;
+}
+
+.btn:hover {
+    color: #ffbb33;
+}
+
+.btn_voltar {
+    right: 18%;
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border: none;
+    cursor: pointer;
+    max-height: 40px;
+    position: absolute;
+    bottom: 70%;
+    right: 15%;
+}
+
+.btn_voltar:hover {
+    color: #ffbb33;
+} */
+
+.contato_content{
+    display: flex;
+    flex-direction: row;
+}
+
+.contato_content .contato_details,
+.contato_content form{
+    width: 50%;
+    padding: 10px;
+}
+
+.contato_details h1,
+.contato_details div,
+.contato_details p {
+    background-color: #222;
+    padding: 5px 10px;
+    color: #ffbb33;
+    margin-bottom: 10px;
+    width: fit-content;
+}
+
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border: none;
+    cursor: pointer;
+    max-height: 40px;
+    position: absolute;
+    bottom: 70%;
+    right: 22%;
+}
+
+.btn:hover {
+    color: #ffbb33;
+}

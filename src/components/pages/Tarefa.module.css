@@ -1,0 +1,37 @@
+.tarefa_content{
+    display: flex;
+    flex-direction: row;
+}
+
+.tarefa_content .tarefa_details,
+.tarefa_content form{
+    width: 50%;
+    padding: 10px;
+}
+
+.tarefa_details h1,
+.tarefa_details div {
+    background-color: #222;
+    padding: 5px 10px;
+    color: #ffbb33;
+    margin-bottom: 10px;
+    width: fit-content;
+}
+
+.btn {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border: none;
+    cursor: pointer;
+    max-height: 40px;
+    position: absolute;
+    bottom: 70%;
+    right: 22%;
+}
+
+.btn:hover {
+    color: #ffbb33;
+}

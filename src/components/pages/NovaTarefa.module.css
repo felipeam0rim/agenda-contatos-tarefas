@@ -1,0 +1,64 @@
+.form_control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  }
+  
+.form_control label {
+  margin-bottom: 0.6em;
+  font-weight: bold;
+}
+
+.form_control input {
+  padding: 0.7em;
+  border-radius: 0;
+  border: none;
+}
+
+.form_control input::placeholder {
+  color: #7b7b7b;
+}
+
+.titulo {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3em;
+  position: relative;
+  bottom: 8rem;
+}
+
+.btn {
+  background-color: #222;
+  color: #fff;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  transition: 0.5s;
+  cursor: pointer;
+  border: none;
+}
+
+.btn:hover {
+  color: #ffbb33;
+}
+
+.nova_tarefa_container {
+  width: 350px;
+  margin: 1.5rem 1rem 2rem 5rem;
+  padding: 2.5rem;
+}
+
+.nova_tarefa_container h1 {
+  margin-bottom: 0.5em;
+}
+
+.nova_tarefa_container p {
+  color: #7b7b7b;
+}
+
+textarea {
+  margin-bottom: 1rem;
+}

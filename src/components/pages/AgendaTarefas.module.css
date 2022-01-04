@@ -1,0 +1,12 @@
+.titulo {
+    position: relative;
+    bottom: 450px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+    position: relative;
+    bottom: 65px;;
+}

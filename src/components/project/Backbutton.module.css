@@ -1,0 +1,17 @@
+.btn_voltar {
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border: none;
+    cursor: pointer;
+    max-height: 40px;
+    position: absolute;
+    right: 10px;
+    margin: 10px;
+}
+
+.btn_voltar:hover {
+    color: #ffbb33;
+}
