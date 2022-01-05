@@ -1,4 +1,4 @@
-# Task and contact management system
+# Tasks and contacts management system
 
 This project was made with [Create React App](https://create-react-app.dev/).
 
