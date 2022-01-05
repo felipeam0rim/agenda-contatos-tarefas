@@ -14,7 +14,10 @@ To run the project, you must have installed node.js (https://nodejs.org/en/)
 
 With the project in your source code editor, open the terminal and do the following comands:
 
-### ```npm start```
+### 
+```
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
