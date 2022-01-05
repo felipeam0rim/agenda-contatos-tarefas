@@ -1,7 +1,6 @@
 <h1>Tasks and contacts management system</h1>
 <p>&bull; <strong>Author:</strong> Luis Felipe Amorim Silva</p>
 <p>&bull; <strong>Language:</strong>Javascript</p>
-<hr width = 100%>
 
 ## Description:
 This project was made with [Create React App](https://create-react-app.dev/).
