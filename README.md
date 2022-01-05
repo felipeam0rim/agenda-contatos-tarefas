@@ -14,8 +14,8 @@ To run the project, you must have installed node.js (https://nodejs.org/en/)
 
 With the project in your source code editor, open the terminal and do the following comands:
 
-### 
-```
+ 
+### ```
 npm start
 ```
 
