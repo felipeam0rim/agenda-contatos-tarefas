@@ -1,11 +1,12 @@
 <h1>Tasks and contacts management system</h1>
 <hr width = 100%>
-<p>&bull; <strong>Autor:</strong> Luis Felipe Amorim Silva</p>
-<p>&bull; <strong>Linguagem:</strong>Javascript</p>
+<p>&bull; <strong>Author:</strong> Luis Felipe Amorim Silva</p>
+<p>&bull; <strong>Language:</strong>Javascript</p>
 <hr width = 100%>
 
-<h3>Description:</h3>
-<p>This project was made with [Create React App](https://create-react-app.dev/).</p>
+## Description:
+This project was made with [Create React App](https://create-react-app.dev/).
+<hr width = 100%>
 
 ## Running the project
 
