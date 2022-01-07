@@ -1,46 +1,4 @@
 {
-  "contatos": [
-    {
-      "name": "Elthon",
-      "number": "5545454",
-      "email": "email@hotmail.com",
-      "id": 1
-    },
-    {
-      "name": "Elthon",
-      "number": "126312836",
-      "email": "iaje@aieia.com",
-      "id": 2
-    }
-  ],
-  "tarefas": [
-    {
-      "descricao": "Correr durante 1 hora, 10min caminhando e 5min correndo.",
-      "name": "Correr na praia",
-      "id": 1,
-      "data": "30/12/2021",
-      "hora": "15:00"
-    },
-    {
-      "name": "Assistir Curso React",
-      "data": "03/01/2022",
-      "hora": "16:00",
-      "descricao": "Assistir o capítulo IV do módulo de react da rocketseat.",
-      "id": 2
-    },
-    {
-      "name": "Estudar funções",
-      "data": "04/01/2022",
-      "hora": "17:00",
-      "descricao": "Estudar funções assíncronas pela apostila.",
-      "id": 3
-    },
-    {
-      "name": "Fisioterapia",
-      "data": "04/01/2022",
-      "hora": "18:00",
-      "descricao": "Ir na consulta de fisioterapia às 18h",
-      "id": 4
-    }
-  ]
+  "Contatos": [],
+  "Tarefas": []
 }

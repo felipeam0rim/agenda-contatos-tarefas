@@ -2,15 +2,17 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
-html, body, #root {
-  background-color: #fff9eb;
+html,
+body,
+#root {
+  background-color: #f1edd1;
   height: 100%;
 }
 
-#root{
+#root {
   display: flex;
   flex-direction: column;
 }
@@ -21,5 +23,6 @@ html, body, #root {
 }
 
 .btn {
-  background-color: #e7e7e7; color: black;
+  background-color: #e7e7e7;
+  color: black;
 }
