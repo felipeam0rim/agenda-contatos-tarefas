@@ -1,14 +1,14 @@
 .footer {
-    background-color: #222;
-    color: #fff;
-    padding: 2em;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }  
-   
-  .copy_right span {
-    font-weight: bold;
-    color: #ffbb33;
-  }
+  background-color: #222;
+  color: #fff;
+  padding: 2em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.copy_right span {
+  font-weight: bold;
+  color: #ffbb33;
+}

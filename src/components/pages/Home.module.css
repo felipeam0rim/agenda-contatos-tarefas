@@ -33,10 +33,11 @@
 
 .home_icons {
   display: flex;
-  padding: 0 25%;
-  height: 260px;
+  padding: 0 17%;
+  height: 200px;
   justify-content: center;
   align-items: center;
+  margin-bottom: 100px;
 }
 
 .home_icons a {
